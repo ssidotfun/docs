@@ -33,12 +33,12 @@
     "global": {
       "anchors": [
         {
-          "anchor": "X/Twitter",
+          "anchor": "Follow Us",
           "href": "https://x.com/ssidotfun",
           "icon": "x-twitter"
         },
         {
-          "anchor": "Community",
+          "anchor": "Join Our Community",
           "href": "https://discord.gg/6mhAb4zmPs",
           "icon": "discord"
         }
