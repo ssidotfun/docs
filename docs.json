@@ -21,6 +21,12 @@
             ]
           },
           {
+            "group": "Events",
+            "pages": [
+              "hAIckathon-1"
+            ]
+          },
+          {
             "group": "Resources",
             "pages": [
               "resources/term-of-use",
